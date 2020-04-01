@@ -1,0 +1,9 @@
+.App {
+  flex: 1;
+  height: 900px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #183131;
+  padding:0 16px;
+}
